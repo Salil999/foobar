@@ -1,4 +1,3 @@
-
 '''
 Commander Lambda's minions are upset! They're given the worst jobs on the whole space station,
 and some of them are starting to complain that even those worst jobs are being allocated
